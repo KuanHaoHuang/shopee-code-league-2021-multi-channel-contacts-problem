@@ -7,7 +7,7 @@
 
 ### Solution Visualization
 #### The Challenging Part
-![challenge visualization](https://github.com/KuanHaoHuang/shopee-code-league-2021-multi-channel-contacts-problem/blob/master/doc/challenge_visualization.png?raw=true)
+![challenge visualization](doc/challenge_visualization.png)
 #### Solved with Union-Find Algorithm
-![solution visualization](https://github.com/KuanHaoHuang/shopee-code-league-2021-multi-channel-contacts-problem/blob/master/doc/solution_visualization.png?raw=true)
+![solution visualization](doc/solution_visualization.png)
 
