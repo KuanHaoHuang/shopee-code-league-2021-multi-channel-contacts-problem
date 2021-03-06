@@ -6,6 +6,7 @@
 - [Try it out in Google Colab!](https://colab.research.google.com/github/KuanHaoHuang/shopee-code-league-2021-multi-channel-contacts-problem/blob/master/multi-channel-contacts.ipynb)
 
 ### Solution Visualization
+(All data shown below are synthesized, instead of real competition data)
 #### The Challenging Part
 ![challenge visualization](doc/challenge_visualization.png)
 #### Solved with Union-Find Algorithm
