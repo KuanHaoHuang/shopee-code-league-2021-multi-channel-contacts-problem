@@ -7,6 +7,7 @@
   - Operation done in less than a minute in Google Colab
 - [Try multi-channel-contacts_union-find_simplified_version.ipynb in Google Colab](https://colab.research.google.com/github/KuanHaoHuang/shopee-code-league-2021-multi-channel-contacts-problem/blob/master/multi-channel-contacts_union-find_simplified_version.ipynb)
   - More succinct code, but slightly slower than the other version
+- [My Blog Post in Mandarin](https://haosquare.com/shopee-code-league-2021-data-analytics/)（中文部落格講解）
 
 ### Solution Visualization
 (All data shown below are synthesized, instead of real competition data)
