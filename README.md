@@ -3,8 +3,10 @@
 - [Union-Find Algorithm](https://algs4.cs.princeton.edu/15uf/)
 - implemented using Linked List
 - Both time and space complexity being O(n)
-- [Try it out in Google Colab!](https://colab.research.google.com/github/KuanHaoHuang/shopee-code-league-2021-multi-channel-contacts-problem/blob/master/multi-channel-contacts.ipynb)
-  - [Union-Find simplified version in Google Colab](https://colab.research.google.com/github/KuanHaoHuang/shopee-code-league-2021-multi-channel-contacts-problem/blob/master/multi-channel-contacts_union-find_simplified_version.ipynb)
+- [Try multi-channel-contacts.ipynb in Google Colab!](https://colab.research.google.com/github/KuanHaoHuang/shopee-code-league-2021-multi-channel-contacts-problem/blob/master/multi-channel-contacts.ipynb)
+  - Operation done in less than a minute in Google Colab
+- [Try multi-channel-contacts_union-find_simplified_version.ipynb in Google Colab](https://colab.research.google.com/github/KuanHaoHuang/shopee-code-league-2021-multi-channel-contacts-problem/blob/master/multi-channel-contacts_union-find_simplified_version.ipynb)
+  - More succinct code, but slightly slower than the other version
 
 ### Solution Visualization
 (All data shown below are synthesized, instead of real competition data)
